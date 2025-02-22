@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "Ricardo Chavez",
+      "name": "Ricardo Chavez Merino",
       "label": "Ingeniero de Software",
-      "image": "https://avatars.githubusercontent.com/u/77445992?v=4",
+      "image": "./public/richie_profile_color.webp",
       "email": "GIC.RC455@gmail.com",
       "phone": "+52 55 2258 4152",
       "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "Ingeniero de software con experiencia en desarrollo backend, Python y control de versiones. Especializado en integración de sistemas, automatización de procesos y APIs REST. Comunicador efectivo, colaborador entusiasta, autodidacta y proactivo, con la capacidad de identificar áreas de mejora e implementar soluciones para garantizar la compatibilidad y optimización de los servicios tecnológicos.",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -15,8 +15,13 @@
         "region": "México"
       },
       "profiles": [{
-        "network": "Twitter",
-        "username": "john",
+        "network": "LinkedIn",
+        "username": "richiechz-dev",
+        "url": "https://github.com/richiechz-dev"
+      },
+      {
+        "network": "GitHub",
+        "username": "ricardochz",
         "url": "https://twitter.com/john"
       }]
     },
