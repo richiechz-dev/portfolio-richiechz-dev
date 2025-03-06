@@ -26,14 +26,26 @@
       }]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
+      "name": "REPARE",
+      "position": "Analista de Información",
       "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "startDate": "2023-OCT-01",
+      "endDate": "2024-JAN-01",
+      "summary": "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso",
       "highlights": [
-        "Started the company"
+        "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso"
+      ]
+    },
+    {
+      "name": "App DT Software",
+      "position": "Pasante en Desarrollo Web y Soporte",
+      "url": "https://company.com",
+      "startDate": "2022-NOV-01",
+      "endDate": "2023-APR-01",
+      "summary": "Desarrollo y Mantenimiento de aplicaciones web en PHP y MySQL",
+      "highlights": [
+        "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso",
+        "Diseñe y Presente informes dinamicos en Excel utilizando graficos y tablas dinamicas para la toma de decisiones"
       ]
     }],
     "volunteer": [{
@@ -52,11 +64,11 @@
       "url": "https://institution.com/",
       "area": "Ingenieria de Software",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "endDate": "2023-AUG-01",
+      "startDate": "2019-JAN-01",
       "score": "4.0",
       "courses": [
-        "DB1101 - Basic SQL"
+        "Google Cloud Computing Foundations, emitido por Google Cloud"
       ]
     }],
     "awards": [{
@@ -79,12 +91,73 @@
       "summary": "Description…"
     }],
     "skills": [{
-      "name": "Web Development",
+      "name": "Python",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "HTML"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Buen conocimiento de Linux",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Maquinas Virtuales",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "TCP/IP",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "VLAN",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": [
+        "HTML"
       ]
     }],
     "languages": [{
@@ -103,13 +176,17 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Project",
+      "name": "Galeria Virtual",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
+      "description": "Diseño y Programación de un Portafolio Creativo para un cliente usando buenas practicas de codficación. Uso de CSS puro, HTML semantico y buenas practicas de SEO. Obteniendo mejor rendimiento y flexibildad. Uso de JavaScript para funciones interactivas.",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "HTML Semantico",
+        "CSS",
+        "Meta tags y etiquetas SEO",
+        "Diseño UX/UI",
+        "Figma"
       ],
-      "url": "https://project.com/"
+      "url": "https://suricato-cult-porfolio.vercel.app/"
     }]
   }

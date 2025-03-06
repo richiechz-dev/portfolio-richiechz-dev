@@ -1,7 +1,68 @@
 ---
 import Section from '@/components/Section.astro';
+
+import { education } from '@cv';
 ---
 
-<Section title="Education">
-    <p>Hola mundo</p>
+<Section title="Educación">
+    <ul>
+        {education.map(({institution, startDate, endDate, area}) => {
+            const starYear = new Date(startDate).getFullYear();
+            const endYear = endDate !== null ? new Date(endDate).getFullYear() : 'Actual';
+            const years = `${starYear} - ${endYear}`;
+
+            return (<li>
+                <article>
+                    <header>
+                        <div>
+                            
+                        <h3>{institution}</h3>
+                        <p>{area}</p>
+                        </div>
+                        
+                        <time>{years}</time>
+                    </header>
+
+                    <footer>
+                        {
+                                    education.map(({courses}) => {
+                                        return (
+                                            <span>{courses}</span>
+                                        )
+                                    })
+                                }
+                    </footer>
+                </article>
+            </li>)
+        })}
+    </ul>
 </Section>
+
+
+<style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    article h3{
+        font-weight: 500;
+        color: #111;
+    }
+    article h4{
+        font-weight: 200;
+        color: #222;
+    }
+    header {
+        display: flex; 
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 4px;
+    }
+
+    time {
+        color: #666;
+        font-size: 0.85rem;
+    }
+
+</style>
