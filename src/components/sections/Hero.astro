@@ -7,6 +7,7 @@ import Phone from '@/icons/Phone.astro';
 import LinkedIn from '@/icons/LinkedIn.astro';
 import GitHub from '@/icons/GitHub.astro';
 import WorldMap from '@/icons/WorldMap.astro';
+import Download from '@/icons/download.astro';
 
 const {name, label,summary, image, location, profiles, phone, email} = basics
 const {city, region} = location
@@ -31,7 +32,7 @@ const social_icons: Record<string, any> ={
                     email && (
                         <a 
                             href={`mailto:${email}`}
-                            title={`Enviar correo a ${name} al correo ${email}`}
+                            title={`Send email to ${name} at ${email}`}
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -43,7 +44,7 @@ const social_icons: Record<string, any> ={
                     phone && (
                         <a 
                             href={`tel:${phone}`}
-                            title={`Llamar a ${name} al número ${email}`}
+                            title={`Call to ${name} at ${phone}`}
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -66,6 +67,7 @@ const social_icons: Record<string, any> ={
                         )
                     })
                 }
+                <a href="public\CV_RICARDO_CHAVEZ_MERINO.pdf" download="ricardo-chavez-cv-software-engineer.pdf" target="_blank" title={`Download CV of ${name}`}><Download /></a>
             </footer>
         </div>
         <figure>
@@ -108,7 +110,7 @@ const social_icons: Record<string, any> ={
         aspect-ratio: 1/1;
         border-radius: 15%;
         object-fit: cover;
-        width: 220px;
+        width: 200px;
     }
     footer {
         display: flex;

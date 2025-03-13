@@ -1,18 +1,18 @@
 {
     "basics": {
       "name": "Ricardo Chavez Merino",
-      "label": "Ingeniero de Software",
+      "label": "Software Engineer",
       "image": "./public/richie_profile_color.webp",
       "email": "GIC.RC455@gmail.com",
       "phone": "+52 55 2258 4152",
       "url": "https://johndoe.com",
-      "summary": "Ingeniero de software con experiencia en desarrollo backend, Python y control de versiones. Especializado en integración de sistemas, automatización de procesos y APIs REST. Comunicador efectivo, colaborador entusiasta, autodidacta y proactivo, con la capacidad de identificar áreas de mejora e implementar soluciones para garantizar la compatibilidad y optimización de los servicios tecnológicos.",
+      "summary": "Software Engineer with 1+ year of experience in web development, systems integrations and process automation. Skilled in Python, REST APIs, SQL, and more. Proven ability to implement solutions to ensure interoperability and optimization of technological services.",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
-        "city": "Ciudad de México",
+        "city": "Mexico City",
         "countryCode": "MX",
-        "region": "México"
+        "region": "Mexico"
       },
       "profiles": [{
         "network": "LinkedIn",
@@ -33,7 +33,7 @@
       "endDate": "2024-JAN-01",
       "summary": "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso",
       "highlights": [
-        "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso"
+        "uno dos tres"
       ]
     },
     {
@@ -44,8 +44,11 @@
       "endDate": "2023-APR-01",
       "summary": "Desarrollo y Mantenimiento de aplicaciones web en PHP y MySQL",
       "highlights": [
-        "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso",
-        "Diseñe y Presente informes dinamicos en Excel utilizando graficos y tablas dinamicas para la toma de decisiones"
+        "Gestioné e integré bases de datos utilizando MySQL, PHP y HeidiSQL, optimizando el rendimiento del servidor y mejorando la eficiencia en el manejo de datos.",
+        "Diseñé y desplegué la pagina web de la empresa, mejorando su presencia en línea.",
+        "Creación de documentación y reportes para asegurar trazabilidad de los proyectos.",
+        "Mantenimiento preventivo para equipos de computo.",
+        "Configuración de routers, switches y repetidores"
       ]
     }],
     "volunteer": [{
@@ -62,7 +65,7 @@
     "education": [{
       "institution": "Universidad Politecnica de Pachuca",
       "url": "https://institution.com/",
-      "area": "Ingenieria de Software",
+      "area": "Software Engineering",
       "studyType": "Bachelor",
       "endDate": "2023-AUG-01",
       "startDate": "2019-JAN-01",
@@ -105,6 +108,13 @@
       ]
     },
     {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
       "name": "HTML5",
       "level": "Master",
       "keywords": [
@@ -119,14 +129,21 @@
       ]
     },
     {
-      "name": "Buen conocimiento de Linux",
+      "name": "Good Knowledge of Linux",
       "level": "Master",
       "keywords": [
         "HTML"
       ]
     },
     {
-      "name": "Maquinas Virtuales",
+      "name": "CLI",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Virtual Machines",
       "level": "Master",
       "keywords": [
         "HTML"
@@ -148,6 +165,20 @@
     },
     {
       "name": "VLAN",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Office 365",
       "level": "Master",
       "keywords": [
         "HTML"
@@ -179,12 +210,13 @@
       "name": "Galeria Virtual",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Diseño y Programación de un Portafolio Creativo para un cliente usando buenas practicas de codficación. Uso de CSS puro, HTML semantico y buenas practicas de SEO. Obteniendo mejor rendimiento y flexibildad. Uso de JavaScript para funciones interactivas.",
+      "description": "Design and development of a tematic virtual gallery for the Suricato Cult, a Mexican street art collective. The project includes the creation of a website with a responsive design, SEO optimization and UX/UI Design.",
       "highlights": [
-        "HTML Semantico",
+        "Semantic HTML",
         "CSS",
-        "Meta tags y etiquetas SEO",
-        "Diseño UX/UI",
+        "JavaScript",
+        "SEO Meta tags",
+        "UX/UI Design",
         "Figma"
       ],
       "url": "https://suricato-cult-porfolio.vercel.app/"

@@ -3,7 +3,7 @@ import Section from '@/components/Section.astro';
 import { work } from '@cv';
 ---
 
-<Section title="Experiencia">
+<Section title="Experience">
     <ul>
         {work.map(({name, startDate, endDate, position, summary, highlights}) => {
             const starYear = new Date(startDate).getFullYear();
@@ -24,6 +24,11 @@ import { work } from '@cv';
 
                     <footer>
                         <p>{summary}</p>
+                        <ul>
+                            {highlights.map((highlight) => (
+                                <li>{highlight}</li>
+                            ))}
+                        </ul>
                     </footer>
                 </article>
             </li>)
@@ -49,12 +54,22 @@ import { work } from '@cv';
         display: flex; 
         justify-content: space-between;
         align-items: center;
-        margin-bottom: 4px;
+        margin-bottom: 9px;
     }
 
     time {
         color: #666;
         font-size: 0.85rem;
     }
+    footer ul {
+        list-style: disc;
+        color: #678;
+		font-size: .9rem;
+		line-height: 1.5;
+		text-wrap: pretty;
+        gap: 0;
+        margin: 0 0 0 1.5rem;
+    }
+
 
 </style>
