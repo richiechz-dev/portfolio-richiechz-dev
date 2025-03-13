@@ -31,9 +31,12 @@
       "url": "https://company.com",
       "startDate": "2023-OCT-01",
       "endDate": "2024-JAN-01",
-      "summary": "Gestión y seguiminto del inventario de equipos de refrigeracion, asegurando un monitoreo preciso",
+      "summary": "Management and tracking of refrigeration equipment inventory, ensuring accurate monitoring.",
       "highlights": [
-        "uno dos tres"
+        "Designed and presented dynamic reports in Excel using graphs and tables, facilitating strategic decision-making.",
+        "Developed and implemented SQL queries and Excel macros to automate data processing, reducing errors and increasing efficiency.",
+        "Developed a Python application to generate visualizations from .txt files, improving data analysis and reporting efficiency and created use guide.",
+        "Implemented a log system using Markdown for the team, improving data organization and version control."
       ]
     },
     {
@@ -42,13 +45,13 @@
       "url": "https://company.com",
       "startDate": "2022-NOV-01",
       "endDate": "2023-APR-01",
-      "summary": "Desarrollo y Mantenimiento de aplicaciones web en PHP y MySQL",
+      "summary": "Development and Maintanence of web applications in PHP and MySQL.",
       "highlights": [
-        "Gestioné e integré bases de datos utilizando MySQL, PHP y HeidiSQL, optimizando el rendimiento del servidor y mejorando la eficiencia en el manejo de datos.",
-        "Diseñé y desplegué la pagina web de la empresa, mejorando su presencia en línea.",
-        "Creación de documentación y reportes para asegurar trazabilidad de los proyectos.",
-        "Mantenimiento preventivo para equipos de computo.",
-        "Configuración de routers, switches y repetidores"
+        "Developed and maintained websites using HTML, CSS, and PHP, ensuring functionality and optimization.",
+        "Designed and deployed a company landing page, enhancing its online presence.",
+        "Managed and integration of databases with MySQL, PHP, and HeidiSQL, improving server efficiency.",
+        "Collaborated on feature implementation based on client needs.",
+        "Created documentation and reports to ensure project traceability."
       ]
     }],
     "volunteer": [{
@@ -179,6 +182,13 @@
     },
     {
       "name": "Office 365",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Excel",
       "level": "Master",
       "keywords": [
         "HTML"
