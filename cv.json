@@ -2,7 +2,7 @@
     "basics": {
       "name": "Ricardo Chavez Merino",
       "label": "Software Engineer",
-      "image": "./public/richie_profile_color.webp",
+      "image": "/richie_profile_color.webp",
       "email": "GIC.RC455@gmail.com",
       "phone": "+52 55 2258 4152",
       "url": "https://johndoe.com",
@@ -17,12 +17,12 @@
       "profiles": [{
         "network": "LinkedIn",
         "username": "richiechz-dev",
-        "url": "https://github.com/richiechz-dev"
+        "url": "https://www.linkedin.com/in/ricardochz/"
       },
       {
         "network": "GitHub",
         "username": "ricardochz",
-        "url": "https://twitter.com/john"
+        "url": "https://github.com/richiechz-dev"
       }]
     },
     "work": [{
