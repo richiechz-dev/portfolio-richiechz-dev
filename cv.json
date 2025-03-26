@@ -6,7 +6,7 @@
       "email": "GIC.RC455@gmail.com",
       "phone": "+52 55 2258 4152",
       "url": "https://johndoe.com",
-      "summary": "Software Engineer with 1+ year of experience in web development, systems integrations and process automation. Skilled in Python, REST APIs, SQL, and more. Proven ability to implement solutions to ensure interoperability and optimization of technological services.",
+      "summary": "Software Engineer with experience in Python and Fullstack development. With experience in academic and personal projects. Specialized in systems integration, process automation, and REST APIs. Effective communicator, enthusiastic collaborator, self-taught, and proactive, with the ability to identify areas for improvement and implement solutions to ensure interoperability and optimization of technological services.",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -27,7 +27,7 @@
     },
     "work": [{
       "name": "REPARE",
-      "position": "Analista de Información",
+      "position": "Analyst Information",
       "url": "https://company.com",
       "startDate": "2023-OCT-01",
       "endDate": "2024-JAN-01",
@@ -40,8 +40,21 @@
       ]
     },
     {
+      "name": "Collaboration with professional electrician",
+      "position": "Electrician Assistant and Installation Technician",
+      "url": "https://company.com",
+      "startDate": "2023-JAN-01",
+      "endDate": "2023-OCT-01",
+      "summary": "Management and tracking of refrigeration equipment inventory, ensuring accurate monitoring.",
+      "highlights": [
+        "Implemented and maintained an automated irrigation system in private apartments",
+        "Installation of electrical wiring in apartments and residential homes",
+        "Installation and configuration of security cameras in shopping malls and residences, wired and connecting systems"
+      ]
+    },
+    {
       "name": "App DT Software",
-      "position": "Pasante en Desarrollo Web y Soporte",
+      "position": "Practices in Web Development and Support",
       "url": "https://company.com",
       "startDate": "2022-NOV-01",
       "endDate": "2023-APR-01",
