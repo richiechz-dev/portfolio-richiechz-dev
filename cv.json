@@ -1,18 +1,18 @@
 {
     "basics": {
       "name": "Ricardo Chavez Merino",
-      "label": "Software Engineer",
+      "label": "Ingeniero de Software",
       "image": "/richie_profile_color.webp",
       "email": "GIC.RC455@gmail.com",
       "phone": "+52 55 2258 4152",
       "url": "https://johndoe.com",
-      "summary": "Software Engineer with experience in Python and Fullstack development. With experience in academic and personal projects. Specialized in systems integration, process automation, and REST APIs. Effective communicator, enthusiastic collaborator, self-taught, and proactive, with the ability to identify areas for improvement and implement solutions to ensure interoperability and optimization of technological services.",
+      "summary": "Soy Ricardo Chávez Merino, ingeniero en Software con conocimientos en desarrollo fullstack, Python, Flask y tecnologías web modernas. Experiencia en el usó de APIs RESTful. Interés en la integración de sistemas y la automatización. Habilidad en la metodología Scrum, mejora continua. ",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
-        "city": "Mexico City",
+        "city": "Ciudade México",
         "countryCode": "MX",
-        "region": "Mexico"
+        "region": "México"
       },
       "profiles": [{
         "network": "LinkedIn",
@@ -27,44 +27,39 @@
     },
     "work": [{
       "name": "REPARE",
-      "position": "Analyst Information",
+      "position": "Analista de Información",
       "url": "https://company.com",
-      "startDate": "2023-OCT-01",
-      "endDate": "2024-JAN-01",
-      "summary": "Management and tracking of refrigeration equipment inventory, ensuring accurate monitoring.",
+      "startDate": "2024-OCT-01",
+      "endDate": "2025-APR-01",
+      "summary": "",
       "highlights": [
-        "Designed and presented dynamic reports in Excel using graphs and tables, facilitating strategic decision-making.",
-        "Developed and implemented SQL queries and Excel macros to automate data processing, reducing errors and increasing efficiency.",
-        "Developed a Python application to generate visualizations from .txt files, improving data analysis and reporting efficiency and created use guide.",
-        "Implemented a log system using Markdown for the team, improving data organization and version control."
+        "Diseño y presentación de informes dinámicos en Excel utilizando gráficos y tablas, facilitando la toma de decisiones estratégicas.",
+        "Automatización del análisis de datos, desarrollo de una aplicación en Python que generó gráficos desde archivos .txt, reduciendo el tiempo de generación de informes, y creación de una guía de uso."
       ]
     },
     {
-      "name": "Collaboration with professional electrician",
-      "position": "Electrician Assistant and Installation Technician",
+      "name": "Trabajo Independiente con Electricista Profesional",
+      "position": "Auxiliar de Electricista",
       "url": "https://company.com",
-      "startDate": "2023-JAN-01",
-      "endDate": "2023-OCT-01",
-      "summary": "Management and tracking of refrigeration equipment inventory, ensuring accurate monitoring.",
+      "startDate": "2023-SEP-01",
+      "endDate": "2024-MAY-01",
+      "summary": "",
       "highlights": [
-        "Implemented and maintained an automated irrigation system in private apartments",
-        "Installation of electrical wiring in apartments and residential homes",
-        "Installation and configuration of security cameras in shopping malls and residences, wired and connecting systems"
+        "Implementación de un sistema automatizado de control de riego, selección de componentes comerciales, planificación del diseño de instalación y configuración del sistema.",
+        "Interpretación de diagramas eléctricos básicos y la correcta distribución e instalación de componentes, incluyendo tubería eléctrica."
       ]
     },
     {
       "name": "App DT Software",
-      "position": "Practices in Web Development and Support",
+      "position": "Practicante en Desarrollo y Soporte Web",
       "url": "https://company.com",
-      "startDate": "2022-NOV-01",
-      "endDate": "2023-APR-01",
-      "summary": "Development and Maintanence of web applications in PHP and MySQL.",
+      "startDate": "2023-FEB-01",
+      "endDate": "2023-JUN-01",
+      "summary": "",
       "highlights": [
-        "Developed and maintained websites using HTML, CSS, and PHP, ensuring functionality and optimization.",
-        "Designed and deployed a company landing page, enhancing its online presence.",
-        "Managed and integration of databases with MySQL, PHP, and HeidiSQL, improving server efficiency.",
-        "Collaborated on feature implementation based on client needs.",
-        "Created documentation and reports to ensure project traceability."
+        "Integración y aseguramiento de bases de datos (PHP/SQL) para dos aplicaciones web.",
+        "Creación de la página web principal de la empresa, incluyendo la obtención de requerimientos con diseño UX/UI de la interfaz (Figma, HTML, CSS).",
+        "Creación de documentación e informes para asegurar la trazabilidad de los proyectos."
       ]
     }],
     "volunteer": [{
@@ -79,11 +74,11 @@
       ]
     }],
     "education": [{
-      "institution": "Universidad Politecnica de Pachuca",
+      "institution": "Universidad Politécnica de Pachuca",
       "url": "https://institution.com/",
-      "area": "Software Engineering",
+      "area": "Ingeniería de Software",
       "studyType": "Bachelor",
-      "endDate": "2023-AUG-01",
+      "endDate": "2024-AUG-01",
       "startDate": "2019-JAN-01",
       "score": "4.0",
       "courses": [
@@ -110,7 +105,7 @@
       "summary": "Description…"
     }],
     "skills": [{
-      "name": "Python",
+      "name": "Python (Flask, FastAPI, Pandas)",
       "level": "Master",
       "keywords": [
         "HTML"
@@ -118,6 +113,13 @@
     },
     {
       "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Dart (Flutter)",
       "level": "Master",
       "keywords": [
         "HTML"
@@ -201,14 +203,14 @@
       ]
     },
     {
-      "name": "Excel",
+      "name": "Excel (Analisís datos, Tablas Dinámicas, Macros)",
       "level": "Master",
       "keywords": [
         "HTML"
       ]
     },
     {
-      "name": "Docker",
+      "name": "SCRUM",
       "level": "Master",
       "keywords": [
         "HTML"
@@ -230,15 +232,25 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Galeria Virtual",
+      "name": "Task Manager CLI (Python)",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Design and development of a tematic virtual gallery for the Suricato Cult, a Mexican street art collective. The project includes the creation of a website with a responsive design, SEO optimization and UX/UI Design.",
+      "description": "Desarrollo de una aplicación de gestión de tareas utilizando Python, aplicando principios de Programación Orientada a Objetos (POO), diseño modular (creación de módulos), uso de decoradores y manipulación eficiente de estructuras de datos (gestión de diccionarios).",
       "highlights": [
-        "Semantic HTML",
+        "Python",
+        "POO"
+      ],
+      "url": "https://suricato-cult-porfolio.vercel.app/"
+    },
+    {
+      "name": "Portafolio de Diseño",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Portafolio web personal estatico y responsivo para mostrar una colección curada de arte e ilustración.",
+      "highlights": [
+        "HTML semántico",
         "CSS",
         "JavaScript",
-        "SEO Meta tags",
         "UX/UI Design",
         "Figma"
       ],
