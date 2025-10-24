@@ -26,7 +26,7 @@ npm create astro@latest -- --template basics
 └── package.json
 ```
 
-## Comandos para inciar el proyecto
+## Comandos para iniciar el proyecto
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
