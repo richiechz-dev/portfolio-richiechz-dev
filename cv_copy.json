@@ -1,0 +1,247 @@
+{
+    "basics": {
+      "name": "Ricardo Chavez Merino",
+      "label": "Software Engineer",
+      "image": "/richie_profile_color.webp",
+      "email": "GIC.RC455@gmail.com",
+      "phone": "+52 55 2258 4152",
+      "url": "https://johndoe.com",
+      "summary": "Software Engineer with experience in Python and Fullstack development. With experience in academic and personal projects. Specialized in systems integration, process automation, and REST APIs. Effective communicator, enthusiastic collaborator, self-taught, and proactive, with the ability to identify areas for improvement and implement solutions to ensure interoperability and optimization of technological services.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "Mexico City",
+        "countryCode": "MX",
+        "region": "Mexico"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "richiechz-dev",
+        "url": "https://www.linkedin.com/in/ricardochz/"
+      },
+      {
+        "network": "GitHub",
+        "username": "ricardochz",
+        "url": "https://github.com/richiechz-dev"
+      }]
+    },
+    "work": [{
+      "name": "REPARE",
+      "position": "Analyst Information",
+      "url": "https://company.com",
+      "startDate": "2023-OCT-01",
+      "endDate": "2024-JAN-01",
+      "summary": "Management and tracking of refrigeration equipment inventory, ensuring accurate monitoring.",
+      "highlights": [
+        "Designed and presented dynamic reports in Excel using graphs and tables, facilitating strategic decision-making.",
+        "Developed and implemented SQL queries and Excel macros to automate data processing, reducing errors and increasing efficiency.",
+        "Developed a Python application to generate visualizations from .txt files, improving data analysis and reporting efficiency and created use guide.",
+        "Implemented a log system using Markdown for the team, improving data organization and version control."
+      ]
+    },
+    {
+      "name": "Collaboration with professional electrician",
+      "position": "Electrician Assistant and Installation Technician",
+      "url": "https://company.com",
+      "startDate": "2023-JAN-01",
+      "endDate": "2023-OCT-01",
+      "summary": "Management and tracking of refrigeration equipment inventory, ensuring accurate monitoring.",
+      "highlights": [
+        "Implemented and maintained an automated irrigation system in private apartments",
+        "Installation of electrical wiring in apartments and residential homes",
+        "Installation and configuration of security cameras in shopping malls and residences, wired and connecting systems"
+      ]
+    },
+    {
+      "name": "App DT Software",
+      "position": "Practices in Web Development and Support",
+      "url": "https://company.com",
+      "startDate": "2022-NOV-01",
+      "endDate": "2023-APR-01",
+      "summary": "Development and Maintanence of web applications in PHP and MySQL.",
+      "highlights": [
+        "Developed and maintained websites using HTML, CSS, and PHP, ensuring functionality and optimization.",
+        "Designed and deployed a company landing page, enhancing its online presence.",
+        "Managed and integration of databases with MySQL, PHP, and HeidiSQL, improving server efficiency.",
+        "Collaborated on feature implementation based on client needs.",
+        "Created documentation and reports to ensure project traceability."
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Politecnica de Pachuca",
+      "url": "https://institution.com/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "endDate": "2023-AUG-01",
+      "startDate": "2019-JAN-01",
+      "score": "4.0",
+      "courses": [
+        "Google Cloud Computing Foundations, emitido por Google Cloud"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Good Knowledge of Linux",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "CLI",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Virtual Machines",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "TCP/IP",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "VLAN",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Wireshark",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Office 365",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Galeria Virtual",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Design and development of a tematic virtual gallery for the Suricato Cult, a Mexican street art collective. The project includes the creation of a website with a responsive design, SEO optimization and UX/UI Design.",
+      "highlights": [
+        "Semantic HTML",
+        "CSS",
+        "JavaScript",
+        "SEO Meta tags",
+        "UX/UI Design",
+        "Figma"
+      ],
+      "url": "https://suricato-cult-porfolio.vercel.app/"
+    }]
+  }
